@@ -1,0 +1,431 @@
+{
+  "OfficialMenu": {
+    "Lunch": {
+      "starters": [
+        {
+          "name": "Pastition",
+          "description": "Macaroni & Lean Minced beef in a White Sauce, Sprinkled with Cheese",
+          "price": "5.95"
+        },
+        {
+          "name": "Poached Asparagus Spears (GF)",
+          "description": "Delicate asparagus spears, gently poached to maintain their vibrant color and crisp, tender texture.",
+          "price": "5.25"
+        },
+        {
+          "name": "Halloumi & Tomato Salad (GF)",
+          "description": "Grilled halloumi cheese paired with ripe, juicy tomatoes, creating a harmonious blend of flavors",
+          "price": "6.25"
+        },
+        {
+          "name": "Brie & Camembert Fritters",
+          "description": "Indulgent brie and camembert fritters, golden and crispy on the outside, oozing with creamy, melty cheese inside.",
+          "price": "5.25"
+        },
+        {
+          "name": "Pate Othello & Homemade Pickle (GF)",
+          "description": "Pate Othello, a velvety delight of rich flavors, accompanied by tangy, homemade pickles for the perfect balance",
+          "price": "5.45"
+        },
+        {
+          "name": "Spinach & Feta Parcels",
+          "description": "Savory spinach and feta parcels, wrapped in flaky pastry, delivering a delightful combination of greens and cheese.",
+          "price": "4.95"
+        },
+        {
+          "name": "Goujons of Sole",
+          "description": "Tender goujons of sole, delicately breaded and fried to golden perfection, showcasing the delicate flavors of the sea.",
+          "price": "5.95"
+        }
+      ],
+      "main": [
+        {
+          "name": "Chicken and Leak Pie",
+          "description": "Served with Creamed Potatoes, Carrots, and Broccoli",
+          "price": "7.95"
+        },
+        {
+          "name": "Steak Pie",
+          "description": "Served with Beer Gravy, Carrots, Peas & Creamed Potatoes",
+          "price": "8.25"
+        },
+        {
+          "name": "Moussaka",
+          "description": "Served with Greek Salad & Chips",
+          "price": "8.25"
+        },
+        {
+          "name": "Panini Steak",
+          "description": "Chargrilled Sirloin Steak Served with Onion & Tomato Salad & Chips",
+          "price": "9.95"
+        },
+        {
+          "name": "BBQ Chicken Melt",
+          "description": "Served wit Spinach & Crispy Potato Wedges (GF)",
+          "price": "7.25"
+        },
+        {
+          "name": "Klefdiko",
+          "description": "Roast Lamb Served with Creamed Potatoes, Carrots & Broccoli (GF)",
+          "price": "8.95"
+        },
+        {
+          "name": "Leeks & Wild Mushroom Tagliatelle",
+          "description": "Lightly dusted with parmesan",
+          "price": "7.25"
+        },
+        {
+          "name": "Fillet of Lemon Sea Bass",
+          "description": "Served on a Bed of Rocket Green Salad & New Potato (GF)",
+          "price": "9.25"
+        },
+        {
+          "name": "Whitby Scampi Basket",
+          "description": "Served with Petit Pois, Tossed Salad & Chips",
+          "price": "7.95"
+        }
+      ]
+    },
+
+    "Dinner": {
+      "starters": [
+        {
+          "name": "Garlic Mushrooms",
+          "description": "Sautéed mushrooms coated in a garlic cream & white sauce ",
+          "price": "5.25"
+        },
+        {
+          "name": "Othello Pate",
+          "description": "A home-made smooth pate of chicken livers, sherry & port",
+          "price": "6.95"
+        },
+        {
+          "name": "Pastition",
+          "description": "Macaroni and lean minced beef in a white sauce topped with cheese",
+          "price": "6.95"
+        },
+        {
+          "name": "Greek Platter (for two)",
+          "description": "Hummus, taramasalata, tzatziki, fried halloumi, olives & feta cheese",
+          "price": "14.25"
+        },
+        {
+          "name": "Asparagus Spears",
+          "description": "Tender Spears poached gently in a creamy Hollandaise Sauce",
+          "price": "8.95"
+        },
+        {
+          "name": "Moules Mariniere",
+          "description": "Large green lipped mussels steamed in a creamy white wine, onions and garlic sauce",
+          "price": "10.25"
+        },
+        {
+          "name": "Garlic King Prawns",
+          "description": "Large crevettes coated in garlic butter, served with a sweet chilli sauce",
+          "price": "10.75"
+        }
+      ],
+
+      "mains": [
+        {
+          "name": "Moussaka",
+          "description": "The classic Greek dish of aubergines, courgettes, lean minced beef and white sauce, topped with cheese and crisped under the grill",
+          "price": "16.95"
+        },
+        {
+          "name": "Stroganoff",
+          "description": "Chunks of chicken or beef in a sauce of red wine, mushrooms, tomatoes and cream with garlic and onion, served with a timbale of rice",
+          "price": "17.95"
+        },
+        {
+          "name": "Klefdiko",
+          "description": "A Greek classic of slow roasted marinated lamb",
+          "price": "16.95"
+        },
+        {
+          "name": "Chicken a la Creme",
+          "description": "Butterflies breast of chicken cooked in smooth creamed mushrooms, white wine & garlic sauce",
+          "price": "16.95"
+        },
+        {
+          "name": "Honey Glazed Duck",
+          "description": "Roasted duck breast coated in honey served with Lincolnshire parsley stuffing ona  bed of redcurrant and port jus",
+          "price": "18.75"
+        },
+        {
+          "name": "Tournedos Rossini",
+          "description": "Fillet steak topped with home-made pate and coated with a rich red jus served on a bed of toast",
+          "price": "21.95"
+        },
+        {
+          "name": "Steak Diane",
+          "description": "Thinly sliced steak cooked in a brandy-based sauce with cream and mushrooms",
+          "price": "17.95"
+        },
+        {
+          "name": "Mushroom Stroganoff",
+          "description": "Slice mushrooms and roasted peppers combined with a brandy-based tomato cream",
+          "price": "12.25"
+        },
+        {
+          "name": "Vegetable Moussaka",
+          "description": "A layered potato, aubergine & courgette dish filled with chasseur sauce and topped with cheese",
+          "price": "11.95"
+        }
+      ],
+      "fish": [
+        {
+          "name": "Garlic King Prawns",
+          "description": "Large crevettes coated in garlic butter, served with sweet chilli sauce",
+          "price": "19.95"
+        },
+        {
+          "name": "Sea Bass",
+          "description": "Pan fried in spinach topped with a lemon and lime butter",
+          "price": "17.95"
+        },
+        {
+          "name": "Halibut Breton Style",
+          "description": "Meaty Halibut Steak combined with mushrooms and sweet prawns. All cooked in a lemon butter for a rich, nutty flavour",
+          "price": "22.95"
+        },
+        {
+          "name": "Prawn Provencale",
+          "description": "Wild prawns sauted in tomato, garlic, white wine cream with mushrooms",
+          "price": "18.75"
+        }
+      ],
+      "grill": [
+        {
+          "name": "Fillet Steak",
+          "description": "Tender fillet steak, accompanied by crispy chips, flavorful onion rings, and a juicy tomato garnish. A sublime combination.",
+          "price": "29.95"
+        },
+        {
+          "name": "Sirloin Steak",
+          "description": "Juicy sirloin steak, paired with crispy chips, golden onion rings, and a refreshing tomato garnish. A classic delight.",
+          "price": "27.95"
+        },
+        {
+          "name": "Porterhouse Steak",
+          "description": "Hearty porterhouse steak, served with crispy chips, delectable onion rings, and a succulent tomato garnish. A carnivore's delight.",
+          "price": "31.95"
+        }
+      ],
+      "side-orders": [
+        {
+          "name": "Greek Salad",
+          "description": "Classic salad of feta, olives, tomato, onion and cucumber tossed in crispy lettuce",
+          "price": "5.25"
+        },
+        {
+          "name": "Creamed Spinach",
+          "description": "Baby leaf spinach creamed with lemon",
+          "price": "2.95"
+        },
+        {
+          "name": "Asparagus Spears",
+          "description": "Lightly steamed, tossed in seasonal butter",
+          "price": "3.95"
+        },
+        {
+          "name": "Plain Rice",
+          "description": "Long grained fluffy steamed rice",
+          "price": "1.95"
+        },
+        {
+          "name": "Onion Rings",
+          "description": "Fresh onions fired in crispy coating",
+          "price": "2.95"
+        },
+        {
+          "name": "Various Sauces",
+          "description": "Pepper, Chasseur, Blue cheese, Diane",
+          "price": "3.75"
+        }
+      ]
+    },
+    "Desserts": {
+      "deserts": [
+        {
+          "name": "Baklava",
+          "description": "A rich, sweet pastry made with layers of filo, filled with chopped nuts and soaked in a honey syrup, served with fresh fruit and vanilla ice cream.",
+          "price": "6.95"
+        },
+        {
+          "name": "Baileys Chocolate Mousse",
+          "description": "A classic chocolate mousse infused with Baileys liquor and finished with a rich double cream.",
+          "price": "6.95"
+        },
+        {
+          "name": "Honey & Lime Torte",
+          "description": "A lime infused biscuit base torte laced with honey and served with a homemade pineapple sorbet.",
+          "price": "6.95"
+        },
+        {
+          "name": "Raspberry Cheesecake",
+          "description": "A traditional creamy based cheesecake mixed with fresh raspberries and served with homemade raspberry sorbet.",
+          "price": "6.95"
+        },
+        {
+          "name": "Mango & Pineapple Sorbet",
+          "description": "A zesty iced combination of mango and pineapple",
+          "price": "6.95"
+        }
+      ],
+      "Liquor-Coffee": [
+        {
+          "name": "irish Coffee",
+          "description": "Irish whiskey with coffee and a layer of cream",
+          "price": "8.75"
+        },
+        {
+          "name": "Calypso Coffee",
+          "description": "Tia Maria with coffee and a layer of cream",
+          "price": "8.75"
+        },
+        {
+          "name": "Parisienne Coffee",
+          "description": "Brandy with coffee and a layer of cream",
+          "price": "8.75"
+        },
+        {
+          "name": "Italian Classico",
+          "description": "Disaronno with coffee and a layer of cream",
+          "price": "8.75"
+        },
+        {
+          "name": "Cafe Creme",
+          "description": "Baileys with coffee and a layer of cream",
+          "price": "8.75"
+        }
+      ]
+    },
+    "Wine": {
+      "red-wine": [
+        {
+          "name": "Montagne St Emilion",
+          "description": "Soft, ripe wine with a delicious red fruit character",
+          "price": "26.95"
+        },
+        {
+          "name": "Merlot",
+          "description": "Smooth Chilean ruby red fruit",
+          "price": "22.95"
+        },
+        {
+          "name": "Cotes du Rhone",
+          "description": "Fruity with flavours of herbal spice and rich raspberry",
+          "price": "24.95"
+        },
+        {
+          "name": "Crozes Hermitage",
+          "description": "Rich wine with aromas of blackcurrant",
+          "price": "29.75"
+        },
+        {
+          "name": "Chateaneuf du Pape",
+          "description": "An intense ruby blend, powerful wine, full body",
+          "price": "34.95"
+        },
+        {
+          "name": "Espartero Rioja",
+          "description": "Full bodied, smooth, with aromas of prunes and vanilla",
+          "price": "29.75"
+        },
+        {
+          "name": "Shiraz",
+          "description": "Australian Shiraz, full of deep flavours",
+          "price": "24.95"
+        },
+        {
+          "name": "Faustino 1",
+          "description": "Velvet smooth finish with oak hints",
+          "price": "45.95"
+        },
+        {
+          "name": "Trivento Malbec",
+          "description": "Strong blackcurrent velvety finish hosting a plums aroma",
+          "price": "29.95"
+        },
+        {
+          "name": "Othello",
+          "description": "Cypriot full bodied dry red wine with rich aroma",
+          "price": "21.95"
+        }
+      ],
+      "rose-wine": [
+        {
+          "name": "770 Miles",
+          "description": "Californian zinfandel, laced with berries crisp and sweet",
+          "price": "23.95"
+        },
+        {
+          "name": "Anjou Rose",
+          "description": "Classic French rose from near Lois Valley",
+          "price": "23.95"
+        }
+      ],
+      "white-wine": [
+        {
+          "name": "Sauvignon Blanc",
+          "description": "Crisp authentic, South African blend of grape and pineapple",
+          "price": "23.75"
+        },
+        {
+          "name": "Sancerre",
+          "description": "Crisp, fresh with gooseberry finish",
+          "price": "26.75"
+        },
+        {
+          "name": "Chardonnay",
+          "description": "Boasting a rich tropical fruit with a hint of citrus",
+          "price": "24.95"
+        },
+        {
+          "name": "Pinot Grigio",
+          "description": "Light, crisp and zesty with a citrus aroma",
+          "price": "24.95"
+        },
+        {
+          "name": "Saint Panteleimon",
+          "description": "Cypriot medium sweet white with a fruity finish",
+          "price": "21.95"
+        },
+        {
+          "name": "Apelia",
+          "description": "Greek dry white wine soft palate",
+          "price": "21.95"
+        },
+        {
+          "name": "Troodos",
+          "description": "Cypriot medium dry white with a fruity finish",
+          "price": "21.95"
+        }
+      ],
+      "sparkling wine & champagne": [
+        {
+          "name": "Canti",
+          "description": "Crisp prosecco with delightful flavours of peas and peach",
+          "price": "23.95"
+        },
+        {
+          "name": "Asti Spumante",
+          "description": "Refreshing, slightly sweet, sparkling white wine made from Moscato grape",
+          "price": "23.95"
+        },
+        {
+          "name": "Moet & Chandon",
+          "description": "Distinguishes itself with a fruity brightness, a seductive palate and an elegant maturity",
+          "price": "57.00"
+        },
+        {
+          "name": "Verve Clicquot",
+          "description": "well known for both its full bodied biscuit style and consistency quality and fine champagne",
+          "price": "60.00"
+        }
+      ]
+    }
+  },
+  "formatPrice": "{{val, currency}}"
+}

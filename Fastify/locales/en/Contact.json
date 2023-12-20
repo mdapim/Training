@@ -1,0 +1,19 @@
+{
+  "Title": {
+    "heading": "Contact Us",
+    "description": "We're here to assist you! Contact us at Othello Restaurant in Grimsby to reserve a table or discuss your event needs. We look forward to hearing from you."
+  },
+  "open_days": "Open Mondays through Saturdays Lunch - Dinner",
+  "contact_info": "Call 01472 356704 during our opening times, or online using the form below",
+  "Form": {
+    "enquire": "Enquires",
+    "description": "We recommend booking at least 2 weeks in advance for large parties of 6 or more, Please be advised this form does not confirm your reservation and you will be contacted by a member of our team as quickly as possible to confirm it. We value your interest in our establishment and look forward to serving you.",
+    "name": "Full name",
+    "phone": "Phone Number",
+    "email": "Email Address",
+    "time": "Event Time",
+    "date": "Booking Date",
+    "info": "Additional Information"
+  },
+  "button": "Enquire"
+}

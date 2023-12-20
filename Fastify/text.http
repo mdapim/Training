@@ -23,3 +23,6 @@ Content-Type: application/json
 {
     "name": "Mikes New Item"
 }
+
+### GET TRANSLATIONS
+GET http://localhost:3000/locales/en/OurMenu HTTP/1.1

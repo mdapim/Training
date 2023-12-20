@@ -1,0 +1,23 @@
+{
+  "Header": {
+    "home": "heim",
+    "about": "um",
+    "our_menu": "Unser Menü",
+    "contact": "Kontakt",
+    "private": "private_buchungen",
+    "language": "Sprache auswählen"
+  },
+  "Footer": {
+    "contact": "Kontakt",
+    "address": "25 Bethlehem St, Grimsby DN31 1JN",
+    "postcode": "DN31 1JN",
+    "phone": "01472 356704",
+    "email": "othellogrimsby@gmail.com",
+    "copyright": "Copyright © 2023 Othello Restaurant GY. Alle Rechte vorbehalten.",
+    "hours": "Std",
+    "Enquire": "Jetzt anfragen",
+    "days": "Montag - Samstag",
+    "open_afternoon": "12:00 - 14:00 Uhr",
+    "open_evening": "18:00 - 22:00 Uhr"
+  }
+}

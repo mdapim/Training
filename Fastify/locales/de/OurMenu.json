@@ -1,0 +1,43 @@
+{
+  "title": "Unser Menü",
+  "description": "Gönnen Sie sich kulinarische Köstlichkeiten im Othello Restaurant in Grimsby. Entdecken Sie unsere verlockende Speisekarte, die mit Leidenschaft zusammengestellt wurde und exquisite Aromen bietet, die Lust auf mehr machen.",
+  "Buttons": [
+    {
+      "title": "Mittagessen",
+      "description": "Entdecken Sie unser griechisch inspiriertes Mittagsmenü voller authentischer Gerichte aus den besten mediterranen Zutaten. Klicken Sie jetzt, um den Geschmack Griechenlands zu genießen"
+    },
+    {
+      "title": "Abendessen",
+      "description": "Begeben Sie sich auf ein fesselndes mediterranes Dinner-Erlebnis. Tauchen Sie ein in die lebendigen Aromen Griechenlands mit frischen, authentischen Zutaten und köstlichen Kreationen."
+    },
+    {
+      "title": "Nachspeisen",
+      "description": "Entdecken Sie unsere unwiderstehliche Dessertkarte und genießen Sie himmlisches Baklava, cremige Baileys-Maus und mehr."
+    },
+    {
+      "title": "Wein",
+      "description": "Erheben Sie ein Glas auf griechische Traditionen. Entdecken Sie unsere Weinkarte und erleben Sie die reichen Aromen, die unsere authentische griechische Küche ergänzen"
+    }
+  ],
+  "Lunch": [
+    "Vorspeisen",
+    "Netz"
+  ],
+  "Dinner": [
+    "Vorspeisen",
+    "Netz",
+    "Fisch",
+    "Grill",
+    "Beilagen"
+  ],
+  "Desserts": [
+    "Nachspeisen",
+    "Alkohol-Kaffee"
+  ],
+  "Wine": [
+    "Rotwein",
+    "Roséwein",
+    "Weißwein",
+    "Sekt und Champagner"
+  ]
+}

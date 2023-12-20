@@ -1,0 +1,429 @@
+{
+  "OfficialMenu": {
+    "Lunch": {
+      "starters": [
+        {
+          "name": "Pastition",
+          "description": "Makkaroni und mageres Rinderhackfleisch in weißer Soße, bestreut mit Käse",
+          "price": "5,95"
+        },
+        {
+          "name": "Pochierte Spargelstangen (GF)",
+          "description": "Zarte Spargelstangen, sanft pochiert, um ihre lebendige Farbe und ihre knackige, zarte Textur zu bewahren.",
+          "price": "5.25"
+        },
+        {
+          "name": "Halloumi-Tomaten-Salat (GF)",
+          "description": "Gegrillter Halloumi-Käse gepaart mit reifen, saftigen Tomaten ergibt eine harmonische Geschmacksmischung",
+          "price": "6.25"
+        },
+        {
+          "name": "Brie- und Camembert-Krapfen",
+          "description": "Köstliche Brie- und Camembert-Küchlein, außen golden und knusprig, innen mit cremigem, schmelzendem Käse überzogen.",
+          "price": "5.25"
+        },
+        {
+          "name": "Pate Othello & hausgemachte Gurke (GF)",
+          "description": "Pate Othello, ein samtiger Genuss voller Aromen, begleitet von würzigen, hausgemachten Gurken für die perfekte Balance",
+          "price": "5.45"
+        },
+        {
+          "name": "Spinat- und Feta-Pakete",
+          "description": "Herzhafte Spinat- und Feta-Päckchen, eingewickelt in Blätterteig, ergeben eine köstliche Kombination aus Gemüse und Käse.",
+          "price": "4,95"
+        },
+        {
+          "name": "Goujons der Seezunge",
+          "description": "Zarte Seezungengoujons, zart paniert und goldbraun gebraten, bringen die delikaten Aromen des Meeres zur Geltung.",
+          "price": "5,95"
+        }
+      ],
+      "main": [
+        {
+          "name": "Chicken and Leak Pie",
+          "description": "Serviert mit Rahmkartoffeln, Karotten und Brokkoli",
+          "price": "7,95"
+        },
+        {
+          "name": "Steakkuchen",
+          "description": "Serviert mit Biersoße, Karotten, Erbsen und Rahmkartoffeln",
+          "price": "8.25"
+        },
+        {
+          "name": "Moussaka",
+          "description": "Serviert mit griechischem Salat und Chips",
+          "price": "8.25"
+        },
+        {
+          "name": "Panini-Steak",
+          "description": "Gegrilltes Lendensteak, serviert mit Zwiebel-Tomaten-Salat und Pommes Frites",
+          "price": "9,95"
+        },
+        {
+          "name": "BBQ Chicken Melt",
+          "description": "Serviert mit Spinat und knusprigen Kartoffelecken (GF)",
+          "price": "7.25"
+        },
+        {
+          "name": "Klefdiko",
+          "description": "Lammbraten serviert mit Kartoffelcreme, Karotten und Brokkoli (GF)",
+          "price": "8,95"
+        },
+        {
+          "name": "Tagliatelle mit Lauch und Wildpilzen",
+          "description": "Leicht mit Parmesan bestäubt",
+          "price": "7.25"
+        },
+        {
+          "name": "Filet vom Zitronen-Seebarsch",
+          "description": "Serviert auf einem Bett aus Rucola-Grünsalat und neuen Kartoffeln (GF)",
+          "price": "9.25"
+        },
+        {
+          "name": "Whitby Scampi-Korb",
+          "description": "Serviert mit Petit Pois, gemischtem Salat und Chips",
+          "price": "7,95"
+        }
+      ]
+    },
+    "Dinner": {
+      "starters": [
+        {
+          "name": "Knoblauch Pilze",
+          "description": "Sautierte Pilze, umhüllt von Knoblauchcreme und weißer Soße",
+          "price": "5.25"
+        },
+        {
+          "name": "Othello Pate",
+          "description": "Eine hausgemachte glatte Pastete aus Hühnerleber, Sherry und Portwein",
+          "price": "6,95"
+        },
+        {
+          "name": "Pastition",
+          "description": "Makkaroni und mageres Rinderhackfleisch in einer weißen Sauce, garniert mit Käse",
+          "price": "6,95"
+        },
+        {
+          "name": "Griechischer Teller (für zwei)",
+          "description": "Hummus, Taramasalata, Tzatziki, gebratener Halloumi, Oliven und Fetakäse",
+          "price": "14.25"
+        },
+        {
+          "name": "Spargelstangen",
+          "description": "Zarte Speere, sanft pochiert in einer cremigen Sauce Hollandaise",
+          "price": "8,95"
+        },
+        {
+          "name": "Moules Marineriere",
+          "description": "Große Grünlippmuscheln, gedämpft in einer cremigen Weißwein-, Zwiebel- und Knoblauchsauce",
+          "price": "10.25"
+        },
+        {
+          "name": "Knoblauch-Riesengarnelen",
+          "description": "Große, mit Knoblauchbutter überzogene Crevetten, serviert mit süßer Chilisauce",
+          "price": "10.75"
+        }
+      ],
+      "mains": [
+        {
+          "name": "Moussaka",
+          "description": "Das klassische griechische Gericht aus Auberginen, Zucchini, magerem Hackfleisch und weißer Soße, garniert mit Käse und knusprig unter dem Grill",
+          "price": "16,95"
+        },
+        {
+          "name": "Stroganoff",
+          "description": "Hähnchen- oder Rindfleischstücke in einer Sauce aus Rotwein, Pilzen, Tomaten und Sahne mit Knoblauch und Zwiebeln, serviert mit einer Reis-Timbale",
+          "price": "17.95"
+        },
+        {
+          "name": "Klefdiko",
+          "description": "Ein griechischer Klassiker aus langsam gebratenem, mariniertem Lammfleisch",
+          "price": "16,95"
+        },
+        {
+          "name": "Hühnchen a la Creme",
+          "description": "Schmetterlings-Hähnchenbrust, gekocht in glatter Champignoncreme, Weißwein und Knoblauchsauce",
+          "price": "16,95"
+        },
+        {
+          "name": "Mit Honig glasierte Ente",
+          "description": "Gebratene Entenbrust im Honigmantel, serviert mit Lincolnshire-Petersilienfüllung auf einem Bett aus roten Johannisbeeren und Portweinjus",
+          "price": "18.75"
+        },
+        {
+          "name": "Tournedos Rossini",
+          "description": "Filetsteak, garniert mit hausgemachter Pastete und überzogen mit kräftiger roter Jus, serviert auf einem Toastbett",
+          "price": "21.95"
+        },
+        {
+          "name": "Steak Diane",
+          "description": "Dünn geschnittenes Steak, gekocht in einer Brandy-Sauce mit Sahne und Pilzen",
+          "price": "17.95"
+        },
+        {
+          "name": "Pilz-Stroganoff",
+          "description": "Champignons und geröstete Paprika in Scheiben schneiden und mit einer Tomatencreme auf Brandy-Basis kombinieren",
+          "price": "12.25"
+        },
+        {
+          "name": "Gemüse-Moussaka",
+          "description": "Ein geschichtetes Gericht aus Kartoffeln, Auberginen und Zucchini, gefüllt mit Jägersauce und garniert mit Käse",
+          "price": "11,95"
+        }
+      ],
+      "fish": [
+        {
+          "name": "Knoblauch-Riesengarnelen",
+          "description": "Große, mit Knoblauchbutter überzogene Crevetten, serviert mit süßer Chilisauce",
+          "price": "19.95"
+        },
+        {
+          "name": "Wolfsbarsch",
+          "description": "In Spinat gebraten, garniert mit Zitronen- und Limettenbutter",
+          "price": "17.95"
+        },
+        {
+          "name": "Heilbutt nach bretonischer Art",
+          "description": "Fleischiges Heilbuttsteak kombiniert mit Pilzen und süßen Garnelen. Alles in Zitronenbutter gekocht für einen reichhaltigen, nussigen Geschmack",
+          "price": "22,95"
+        },
+        {
+          "name": "Garnelen aus der Provence",
+          "description": "In Tomaten-, Knoblauch- und Weißweincreme sautierte Wildgarnelen mit Pilzen",
+          "price": "18.75"
+        }
+      ],
+      "grill": [
+        {
+          "name": "Filetsteak",
+          "description": "Zartes Filetsteak, begleitet von knusprigen Chips, würzigen Zwiebelringen und einer saftigen Tomatengarnitur. Eine erhabene Kombination.",
+          "price": "29,95"
+        },
+        {
+          "name": "Lendensteak",
+          "description": "Saftiges Lendensteak, gepaart mit knusprigen Pommes Frites, goldenen Zwiebelringen und einer erfrischenden Tomatengarnitur. Ein klassischer Genuss.",
+          "price": "27,95"
+        },
+        {
+          "name": "Porterhouse-Steak",
+          "description": "Herzhaftes Porterhouse-Steak, serviert mit knusprigen Pommes Frites, köstlichen Zwiebelringen und einer saftigen Tomatengarnitur. Ein Genuss für Fleischfresser.",
+          "price": "31,95"
+        }
+      ],
+      "side-orders": [
+        {
+          "name": "Griechischer Salat",
+          "description": "Klassischer Salat aus Feta, Oliven, Tomaten, Zwiebeln und Gurken, geschwenkt in knusprigem Salat",
+          "price": "5.25"
+        },
+        {
+          "name": "Rahmspinat",
+          "description": "Babyblattspinat mit Zitronencreme",
+          "price": "2,95"
+        },
+        {
+          "name": "Spargelstangen",
+          "description": "Leicht gedämpft, in Butter der Saison geschwenkt",
+          "price": "3,95"
+        },
+        {
+          "name": "Einfacher Reis",
+          "description": "Langkörniger, flauschiger gedämpfter Reis",
+          "price": "1,95"
+        },
+        {
+          "name": "Zwiebelringe",
+          "description": "Frische Zwiebeln im knusprigen Mantel gebrannt",
+          "price": "2,95"
+        },
+        {
+          "name": "Verschiedene Saucen",
+          "description": "Pfeffer, Chasseur, Blauschimmelkäse, Diane",
+          "price": "3,75"
+        }
+      ]
+    },
+    "Desserts": {
+      "deserts": [
+        {
+          "name": "Baklava",
+          "description": "Ein reichhaltiges, süßes Gebäck aus Filoteigschichten, gefüllt mit gehackten Nüssen und getränkt in Honigsirup, serviert mit frischem Obst und Vanilleeis.",
+          "price": "6,95"
+        },
+        {
+          "name": "Baileys Schokoladenmousse",
+          "description": "Eine klassische Schokoladenmousse, angereichert mit Baileys-Likör und abgerundet mit einer reichhaltigen Doppelcreme.",
+          "price": "6,95"
+        },
+        {
+          "name": "Honig-Limetten-Torte",
+          "description": "Eine mit Limetten angereicherte Torte auf Keksbasis, mit Honig verfeinert und mit einem hausgemachten Ananassorbet serviert.",
+          "price": "6,95"
+        },
+        {
+          "name": "Himbeerkäsekuchen",
+          "description": "Ein traditioneller cremiger Käsekuchen, gemischt mit frischen Himbeeren und serviert mit hausgemachtem Himbeersorbet.",
+          "price": "6,95"
+        },
+        {
+          "name": "Mango-Ananas-Sorbet",
+          "description": "Eine pikante Eiskombination aus Mango und Ananas",
+          "price": "6,95"
+        }
+      ],
+      "Liquor-Coffee": [
+        {
+          "name": "Irischer Kaffee",
+          "description": "Irischer Whiskey mit Kaffee und einer Schicht Sahne",
+          "price": "8,75"
+        },
+        {
+          "name": "Calypso-Kaffee",
+          "description": "Tia Maria mit Kaffee und einer Schicht Sahne",
+          "price": "8,75"
+        },
+        {
+          "name": "Parisienne-Kaffee",
+          "description": "Brandy mit Kaffee und einer Schicht Sahne",
+          "price": "8,75"
+        },
+        {
+          "name": "Italienischer Klassiker",
+          "description": "Disaronno mit Kaffee und einer Schicht Sahne",
+          "price": "8,75"
+        },
+        {
+          "name": "Café Creme",
+          "description": "Baileys mit Kaffee und einer Schicht Sahne",
+          "price": "8,75"
+        }
+      ]
+    },
+    "Wine": {
+      "red-wine": [
+        {
+          "name": "Montagne St. Emilion",
+          "description": "Weicher, reifer Wein mit einem köstlichen Charakter roter Früchte",
+          "price": "26,95"
+        },
+        {
+          "name": "Merlot",
+          "description": "Glatte chilenische rubinrote Frucht",
+          "price": "22,95"
+        },
+        {
+          "name": "Côtes du Rhone",
+          "description": "Fruchtig mit Aromen von Kräuterwürze und kräftiger Himbeere",
+          "price": "24,95"
+        },
+        {
+          "name": "Crozes-Eremitage",
+          "description": "Reichhaltiger Wein mit Aromen von schwarzen Johannisbeeren",
+          "price": "29.75"
+        },
+        {
+          "name": "Chateauneuf du Pape",
+          "description": "Eine intensive rubinrote Mischung, kräftiger Wein, voller Körper",
+          "price": "34,95"
+        },
+        {
+          "name": "Espartero Rioja",
+          "description": "Vollmundig, weich, mit Aromen von Pflaumen und Vanille",
+          "price": "29.75"
+        },
+        {
+          "name": "Shiraz",
+          "description": "Australischer Shiraz, voller tiefer Aromen",
+          "price": "24,95"
+        },
+        {
+          "name": "Faustino 1",
+          "description": "Samtweiches Finish mit Eichennoten",
+          "price": "45,95"
+        },
+        {
+          "name": "Trivento Malbec",
+          "description": "Kräftiger, samtiger Abgang nach schwarzen Johannisbeeren mit einem Pflaumenaroma",
+          "price": "29,95"
+        },
+        {
+          "name": "Othello",
+          "description": "Zypriotischer, vollmundiger, trockener Rotwein mit reichem Aroma",
+          "price": "21.95"
+        }
+      ],
+      "rose-wine": [
+        {
+          "name": "770 Meilen",
+          "description": "Kalifornischer Zinfandel, garniert mit knackigen und süßen Beeren",
+          "price": "23,95"
+        },
+        {
+          "name": "Anjou Rose",
+          "description": "Klassische französische Rose aus der Nähe von Lois Valley",
+          "price": "23,95"
+        }
+      ],
+      "white-wine": [
+        {
+          "name": "Sauvignon Blanc",
+          "description": "Knackige, authentische südafrikanische Mischung aus Traube und Ananas",
+          "price": "23.75"
+        },
+        {
+          "name": "Sancerre",
+          "description": "Knackig, frisch mit Stachelbeer-Abgang",
+          "price": "26.75"
+        },
+        {
+          "name": "Chardonnay",
+          "description": "Mit einer reichen tropischen Frucht mit einem Hauch von Zitrusfrüchten",
+          "price": "24,95"
+        },
+        {
+          "name": "Pinot Grigio",
+          "description": "Leicht, knackig und pikant mit einem Zitrusaroma",
+          "price": "24,95"
+        },
+        {
+          "name": "Heiliger Panteleimon",
+          "description": "Zypriotischer mittelsüßer Weißwein mit fruchtigem Abgang",
+          "price": "21.95"
+        },
+        {
+          "name": "Apelia",
+          "description": "Griechischer trockener Weißwein, weicher Gaumen",
+          "price": "21.95"
+        },
+        {
+          "name": "Troodos",
+          "description": "Zypriotischer mitteltrockener Weißwein mit fruchtigem Abgang",
+          "price": "21.95"
+        }
+      ],
+      "sparkling wine & champagne": [
+        {
+          "name": "Canti",
+          "description": "Knackiger Prosecco mit herrlichem Erbsen- und Pfirsichgeschmack",
+          "price": "23,95"
+        },
+        {
+          "name": "Asti Spumante",
+          "description": "Erfrischender, leicht süßlicher, prickelnder Weißwein aus der Moscato-Traube",
+          "price": "23,95"
+        },
+        {
+          "name": "Moet & Chandon",
+          "description": "Zeichnet sich durch eine fruchtige Helligkeit, einen verführerischen Gaumen und eine elegante Reife aus",
+          "price": "57,00"
+        },
+        {
+          "name": "Verve Clicquot",
+          "description": "bekannt sowohl für seinen vollmundigen Keksstil als auch für seine konsistente Qualität und seinen edlen Champagner",
+          "price": "60,00"
+        }
+      ]
+    }
+  },
+  "formatPrice": "{{val, currency}}"
+}

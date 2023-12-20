@@ -1,0 +1,46 @@
+{
+  "MainPage": {
+    "welcome_message": {
+      "p1": "Welcome to",
+      "p2": "the",
+      "p3": "Othello",
+      "p4": "Home of Authentic Greek Cuisine where you can experience the taste and traditions of Greece in every bite. We are proud to serve authentic Greek cuisine that is made with fresh ingredients, classic recipes, and a touch of our own family secrets."
+    },
+    "Try": "Try Now"
+  },
+  "InfoPage": {
+    "about_message": {
+      "p1": "Welcome to our Greek restaurant, where you can experience the authentic flavors and hospitality of Greece. From the sun-kissed islands to the mountainous regions of the mainland, Greek cuisine is a celebration of fresh, wholesome ingredients, herbs, and spices that create a symphony of flavors and aromas. Our restaurant brings this culinary experience to your doorstep, offering a wide range of dishes that showcase the diversity of Greek cuisine.",
+      "p2": "Whether you're a fan of baklava, moussaka, or tzatziki, our menu is designed to tantalize your taste buds and transport you to the Greek countryside. So come and join us on a culinary journey through Greece, and let us share our love of food, culture, and hospitality with you."
+    },
+    "title": "What we offer"
+  },
+  "Comments": {
+    "title": "What our happy clients thought"
+  },
+  "Featured": {
+    "title": "Popular Dishes"
+  },
+  "Promotion": [
+    {
+      "title": "Quality Atmosphere",
+      "description": "A pleasant and comfortable atmosphere without unwanted disturbances"
+    },
+    {
+      "title": "Fresh Food",
+      "description": "High-quality food that sits at par with the standards of the restaurant"
+    },
+    {
+      "title": "Excellent Service",
+      "description": "Quick service at all fronts: from being seated to receiving the cheque & everything in between"
+    },
+    {
+      "title": "Warm Welcome",
+      "description": "Kind & cordial treatment by the restaurant staff throughout your dining experience"
+    },
+    {
+      "title": "Seasonal Menus",
+      "description": "Don't miss out on this limited-time opportunity to savor the best of the season"
+    }
+  ]
+}

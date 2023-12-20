@@ -1,21 +1,22 @@
-const items = require('../items');
+const items = require("../items");
 const {
   getItems,
   getItem,
   addItem,
   deleteItem,
   updateItem,
-} = require('../controllers/itemsController');
+  fetchNameSpace,
+} = require("../controllers/itemsController");
 //Options for get all items (format the return for the replies)
 //add ops as a second argument to specify the schema can validate data
 //used for limiting data sent or specifying type
 
 // Item schema
 const Item = {
-  type: 'object',
+  type: "object",
   properties: {
-    id: { type: 'string' },
-    name: { type: 'string' },
+    id: { type: "string" },
+    name: { type: "string" },
   },
 };
 // Options get all items
@@ -23,7 +24,7 @@ const getItemsOpts = {
   schema: {
     response: {
       200: {
-        type: 'array',
+        type: "array",
         items: {
           Item,
         },
@@ -48,10 +49,10 @@ const postItemOpts = {
   schema: {
     body: {
       //can specify input for body ensure its required
-      type: 'object',
-      required: ['name'],
+      type: "object",
+      required: ["name"],
       properties: {
-        name: { type: 'string' },
+        name: { type: "string" },
       },
     },
     response: {
@@ -65,9 +66,9 @@ const deleteItemOpts = {
   schema: {
     response: {
       200: {
-        type: 'object',
+        type: "object",
         properties: {
-          message: { type: 'string' },
+          message: { type: "string" },
         },
       },
     },
@@ -79,10 +80,10 @@ const updateItemOpts = {
   schema: {
     response: {
       200: {
-        type: 'object',
+        type: "object",
         properties: {
           item: Item,
-          message: { type: 'string' },
+          message: { type: "string" },
         },
       },
     },
@@ -90,17 +91,28 @@ const updateItemOpts = {
   handler: updateItem,
 };
 
+const fetchNameOpts = {
+  schema: {
+    response: {
+      200: { type: "object" },
+    },
+  },
+  handler: fetchNameSpace,
+};
+
 // Create a function to treat the routes as a plug in
 function itemRoutes(fastify, options, done) {
-  fastify.get('/items', getItemsOpts);
+  fastify.get("/items", getItemsOpts);
 
-  fastify.get('/items/:id', getItemOpts);
+  fastify.get("/items/:id", getItemOpts);
 
-  fastify.post('/items', postItemOpts);
+  fastify.post("/items", postItemOpts);
 
-  fastify.delete('/items/:id', deleteItemOpts);
+  fastify.delete("/items/:id", deleteItemOpts);
 
-  fastify.patch('/items/:id', updateItemOpts);
+  fastify.patch("/items/:id", updateItemOpts);
+
+  fastify.get("/locales/:lng/:ns", fetchNameOpts);
 
   done();
 }

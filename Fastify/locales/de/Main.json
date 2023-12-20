@@ -1,0 +1,46 @@
+{
+  "MainPage": {
+    "welcome_message": {
+      "p1": "Willkommen zu",
+      "p2": "Die",
+      "p3": "Othello",
+      "p4": "Heimat der authentischen griechischen Küche, wo Sie den Geschmack und die Traditionen Griechenlands bei jedem Bissen erleben können. Wir sind stolz darauf, authentische griechische Küche zu servieren, die aus frischen Zutaten, klassischen Rezepten und einem Hauch unserer eigenen Familiengeheimnisse zubereitet wird."
+    },
+    "Try": "Versuch's jetzt"
+  },
+  "InfoPage": {
+    "about_message": {
+      "p1": "Willkommen in unserem griechischen Restaurant, wo Sie den authentischen Geschmack und die Gastfreundschaft Griechenlands erleben können. Von den sonnenverwöhnten Inseln bis zu den Bergregionen des Festlandes ist die griechische Küche ein Fest frischer, gesunder Zutaten, Kräuter und Gewürze, die eine Symphonie aus Geschmacksrichtungen und Aromen schaffen. Unser Restaurant bringt dieses kulinarische Erlebnis direkt vor Ihre Haustür und bietet eine große Auswahl an Gerichten, die die Vielfalt der griechischen Küche widerspiegeln.",
+      "p2": "Egal, ob Sie ein Fan von Baklava, Moussaka oder Tzatziki sind, unsere Speisekarte soll Ihren Gaumen verwöhnen und Sie in die griechische Landschaft entführen. Kommen Sie also mit uns auf eine kulinarische Reise durch Griechenland und lassen Sie uns unsere Liebe zu Essen, Kultur und Gastfreundschaft mit Ihnen teilen."
+    },
+    "title": "Was wir anbieten"
+  },
+  "Comments": {
+    "title": "Was unsere zufriedenen Kunden dachten"
+  },
+  "Featured": {
+    "title": "Beliebte Gerichte"
+  },
+  "Promotion": [
+    {
+      "title": "Hochwertige Atmosphäre",
+      "description": "Eine angenehme und gemütliche Atmosphäre ohne unerwünschte Störungen"
+    },
+    {
+      "title": "Frisches Essen",
+      "description": "Hochwertiges Essen, das den Standards des Restaurants entspricht"
+    },
+    {
+      "title": "Exzellenter Service",
+      "description": "Schneller Service an allen Fronten: vom Sitzplatz bis zum Empfang des Schecks und allem dazwischen"
+    },
+    {
+      "title": "Herzliches Willkommen",
+      "description": "Freundliche und herzliche Behandlung durch das Restaurantpersonal während Ihres gesamten kulinarischen Erlebnisses"
+    },
+    {
+      "title": "Saisonale Menüs",
+      "description": "Lassen Sie sich diese zeitlich begrenzte Gelegenheit nicht entgehen, das Beste der Saison zu genießen"
+    }
+  ]
+}
